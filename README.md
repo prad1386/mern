@@ -1,4 +1,4 @@
-# MERN STACK (MONGO EXPRESS REACT,REDUX & NODE JS)
+# MERN STACK (MongoDB, ExpressJs ReactJs,Redux & NodeJs)
 
 >Build and deploy a social network with Node.js, Express, React, Redux & MongoDB.
 
